@@ -1,0 +1,25 @@
+SEth, make access aggregate messages:
+Example, 
+ //hardhat.config.ts
+
+sepoli.ethr: {
+
+    url: `{rpc address}`,
+
+    chainId: 1, //chainlist id
+
+}
+
+//endpoints.json
+
+"production": {
+
+  ....
+
+   "sepoli.ethr": {
+
+     "id": 1 //layerone chain id
+
+   }
+
+}
