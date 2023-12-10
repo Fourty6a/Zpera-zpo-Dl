@@ -1,8 +1,10 @@
+Port connect;triggers, 
+chrome-extension://dlcobpjiigpikoobohmabehhmhfoodbb/inject.js.map
 SEth, make access aggregate messages:
 Example, 
  //hardhat.config.ts
 
-sepoli.ethr: {
+sepoli.ethr: test,
 
     url: `{rpc address}`,
 
